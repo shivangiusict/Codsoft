@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Calculator",
+    "desc": "Perform any number of calculations within seconds!",
+    "image": "calculator",
+    "category": "basicweb",
+    "links": {
+      "view": "https://6503623e0b3a45009d774325--remarkable-cranachan-96059a.netlify.app/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website that makes you stand out among crowd!",
+    "image": "portfolio3",
+    "category": "basicweb",
+    "links": {
+      "view": "https://650361d5ceddb2008b9b826f--deluxe-kitsune-d569ea.netlify.app/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "TravelBea",
+    "desc": "Travel beaches across the globe by just one click!",
+    "image": "travelbea",
+    "category": "mern",
+    "links": {
+      "view": "https://6503616f936e1c00a169c190--tranquil-hamster-a79964.netlify.app/",
+      "code": "#"
+    }
+  }
+]
